@@ -1,0 +1,17 @@
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\bin\Debug\net8.0-windows\Flappybird.exe
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\bin\Debug\net8.0-windows\Flappybird.deps.json
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\bin\Debug\net8.0-windows\Flappybird.runtimeconfig.json
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\bin\Debug\net8.0-windows\Flappybird.dll
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\bin\Debug\net8.0-windows\Flappybird.pdb
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.Form1.resources
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.Properties.Resources.resources
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.csproj.GenerateResource.cache
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.AssemblyInfoInputs.cache
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.AssemblyInfo.cs
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.csproj.CoreCompileInputs.cache
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.dll
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\refint\Flappybird.dll
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.pdb
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\Flappybird.genruntimeconfig.cache
+C:\Users\MERAL\source\repos\Flappybird\Flappybird\obj\Debug\net8.0-windows\ref\Flappybird.dll
